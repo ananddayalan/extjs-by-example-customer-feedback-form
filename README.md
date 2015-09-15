@@ -1,4 +1,4 @@
-# extjs-by-example-customer-feedback-form
+# Extjs by example: customer feedback form
 
 This "Customer feedback form" is one of the sample projects detailed in the book "[ExtJS by Example](https://www.packtpub.com/web-development/ext-js-example)".
  To run this sample application, simply clone or download, and open the index.html
